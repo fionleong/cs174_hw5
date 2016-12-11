@@ -1,0 +1,29 @@
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
+
+.language {
+  border: 1px solid black;
+  position: absolute;
+  padding: 15px;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+}
+
+.language select, .language h2 {
+  padding: 0;
+  margin: 0;
+}
+
+.language select {
+  margin-top: 5px;
+}
+
+.payment {
+  border: 1px solid black;
+  display: inline-block;
+  padding: 10px;
+}

@@ -1,0 +1,23 @@
+{
+  "name" : "teampeanut/hw5",
+  "authors": [
+    {
+      "name" : "Anthony Trinh"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "teampeanut\\hw5\\": "src/",
+      "teampeanut\\hw5\\configs\\": "src/configs/",
+      "teampeanut\\hw5\\controllers\\": "src/controllers/",
+      "teampeanut\\hw5\\models\\": "src/models/",
+      "teampeanut\\hw5\\views\\": "src/views/",
+      "teampeanut\\hw5\\views\\elements\\": "src/views/elements/",
+      "teampeanut\\hw5\\views\\helpers\\": "src/views/helpers/"
+    }
+  },
+  "require": {
+    "setasign/fpdf": "1.8.1",
+    "gettext/gettext": "^4.1"
+  }
+}
