@@ -6,7 +6,7 @@ use teampeanut\hw3\views as V;
 class LandingHeadingBottomElement extends Element {
   public function render($data) {
     ?>
-
+      
       <script src="https://code.jquery.com/jquery-3.1.1.js"></script>
       <script type="text/javascript" src="./src/resources/script.js"></script>
       <script type="text/javascript" src="https://js.stripe.com/v2/"></script>

@@ -9,6 +9,9 @@ session_start();
 
 require_once 'vendor/autoload.php';
 
+require_once 'lib/streams.php';
+require_once 'lib/gettext.php';
+
 $ctrl = new C\LandingCtrl();
 $ctrl->mainCtrl();
 ?>

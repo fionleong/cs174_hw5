@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-12-12 02:10-0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: src/views/elements/LandingBodyElement.php:8
+msgid "Hello World!"
+msgstr "Hello World!"
+
+#: src/views/elements/LandingBodyElement.php:9
+msgid "Testing Translation..."
+msgstr "Testing Translation..."
+
+#: src/views/elements/LandingBodyElement.php:17
+msgid "Name: "
+msgstr "Name :"
+
+#: src/views/elements/LandingBodyElement.php:20
+msgid "Your custom digital coin-in-fountain-wish: "
+msgstr "Your custom digital coin-in-fountain-wish: "
+
+#: src/views/elements/LandingBodyElement.php:23
+msgid "Share with your friends: "
+msgstr "Share with your friends: "
+
+#: src/views/elements/LandingBodyElement.php:26
+msgid "Choose a fountain to drop your coin in!"
+msgstr "Choose a fountain to drop your coin in!"
+
+#: src/views/elements/LandingBodyElement.php:28
+msgid "Fountain 1"
+msgstr "Fountain 1"
+
+#: src/views/elements/LandingBodyElement.php:29
+msgid "Fountain 2"
+msgstr "Fountain 2"
+
+#: src/views/elements/LandingBodyElement.php:30
+msgid "Fountain 3"
+msgstr "Fountain 3"
+
+#: src/views/elements/LandingBodyElement.php:38
+msgid "Payment Info: "
+msgstr "Payment Info: "
+
+#: src/views/elements/LandingBodyElement.php:41
+msgid "Amount: "
+msgstr "Payment Info: "
+
+#: src/views/elements/LandingBodyElement.php:48
+msgid "Card Number: "
+msgstr "Card Number: "
+
+#: src/views/elements/LandingBodyElement.php:55
+msgid "Expiration (MM/YY): "
+msgstr "Expiration (MM/YY): "
+
+#: src/views/elements/LandingBodyElement.php:64
+msgid "CVC: "
+msgstr "CVC: "
+
+#: src/views/elements/LandingBodyElement.php:71
+msgid "Billing ZIP Code: "
+msgstr "Billing ZIP Code: "
+
+#: src/views/elements/LandingBodyElement.php:77
+msgid "Throw-A-Coin"
+msgstr "Throw-A-Coin"
+
+#: src/views/elements/LandingBodyElement.php:80
+msgid "Language Preference: "
+msgstr "Language Preference: "
+
+#: src/views/elements/LandingBodyElement.php:82
+msgid "English"
+msgstr "English"
+
+#: src/views/elements/LandingBodyElement.php:83
+msgid "French"
+msgstr "French"
+
+#: src/views/elements/LandingHeadingElement.php:19
+#: src/views/elements/LandingHeadingElement.php:24
+msgid "Throw-A-Coin-In-The-Fountain"
+msgstr "Throw-A-Coin-In-The-Fountain"
+
+#~ msgid "Name :"
+#~ msgstr "Name :"

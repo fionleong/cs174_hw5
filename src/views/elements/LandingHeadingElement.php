@@ -16,12 +16,12 @@ class LandingHeadingElement extends Element {
     <!DOCTYPE html>
     <html>
       <head>
-        <title>Throw-A-Coin-In-The-Fountain</title>
+        <title><?php echo _("Throw-A-Coin-In-The-Fountain") ?></title>
         <meta charset="utf-8" />
         <link rel="stylesheet" href="./src/styles/styles.css" />
       </head>
       <body>
-        <h1>Throw-a-Coin-in-the-Fountain</h1>
+        <h1><?php echo _("Throw-A-Coin-In-The-Fountain") ?></h1>
     <?php
   }
 }
